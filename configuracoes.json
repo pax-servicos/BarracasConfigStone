@@ -5,10 +5,20 @@
 		"nome": "Colégio Liceu"
 	},
 	{
+		"url": "https://imaculadaconceicao.paxservicos.com.br/apiJPA",
+		"logo": "https://d3jqk4faa8uzpj.cloudfront.net/img/imaculadaconceicao_app.png",
+		"nome": "Costelão da Imaculada"
+	},	
+	{
 		"url": "https://santamariadospobres.paxservicos.com.br/apiJPA",
 		"logo": "https://d3jqk4faa8uzpj.cloudfront.net/img/santamariadospobres_app.png",
 		"nome": "Arraiá Santa Maria"
-	},	
+	},
+	{
+		"url": "https://santoantonio.paxservicos.com.br/apiJPA",
+		"logo": "https://d3jqk4faa8uzpj.cloudfront.net/img/santoantonio_app.png",
+		"nome": "Arraiá de Santo Antônio"
+	},		
 	{
 		"url": "https://barracas.paxservicos.com.br/apiJPA",
 		"logo": "https://d3jqk4faa8uzpj.cloudfront.net/img/barracas_pax.png",
