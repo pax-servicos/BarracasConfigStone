@@ -10,15 +10,25 @@
 		"nome": "Costelão da Imaculada"
 	},	
 	{
+		"url": "https://santoantonio.paxservicos.com.br/apiJPA",
+		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/santoantonio_app.png",
+		"nome": "Arraiá de Santo Antônio"
+	},	
+	{
+		"url": "https://guadalupe.paxservicos.com.br/apiJPA",
+		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/guadalupe_app.png",
+		"nome": "Arraial da Guadá"
+	},	
+	{
 		"url": "https://santamariadospobres.paxservicos.com.br/apiJPA",
 		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/santamariadospobres_app.png",
 		"nome": "Arraiá Santa Maria dos pobres"
 	},
 	{
-		"url": "https://santoantonio.paxservicos.com.br/apiJPA",
-		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/santoantonio_app.png",
-		"nome": "Arraiá de Santo Antônio"
-	},		
+		"url": "https://pns.esperanca.paxservicos.com.br/apiJPA",
+		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/pns.esperanca_app.png",
+		"nome": "Arraial da Esperança"
+	},	
 	{
 		"url": "https://barracas.paxservicos.com.br/apiJPA",
 		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/barracas_pax.png",
