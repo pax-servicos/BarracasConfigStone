@@ -8,7 +8,12 @@
 		"url": "https://imaculadaconceicao.paxservicos.com.br/apiJPA",
 		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/imaculadaconceicao_app.png",
 		"nome": "Costelão da Imaculada"
-	},	
+	},
+	{
+		"url": "https://peregrinos.paxservicos.com.br/apiJPA",
+		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/peregrinos_app.png",
+		"nome": "Arraiá dos Peregrinos"
+	},			
 	{
 		"url": "https://santoantonio.paxservicos.com.br/apiJPA",
 		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/santoantonio_app.png",
