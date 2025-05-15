@@ -13,12 +13,17 @@
 		"url": "https://peregrinos.paxservicos.com.br/apiJPA",
 		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/peregrinos_app.png",
 		"nome": "Arraiá dos Peregrinos"
-	},			
+	},
 	{
 		"url": "https://santoantonio.paxservicos.com.br/apiJPA",
 		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/santoantonio_app.png",
 		"nome": "Arraiá de Santo Antônio"
-	},	
+	},
+	{
+		"url": "https://nossasenhoraaparecidafercal.paxservicos.com.br/apiJPA",
+		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/nossasenhoraaparecidafercal_app.png",
+		"nome": "Arraiá da Aparecida"
+	},				
 	{
 		"url": "https://santamariadospobres.paxservicos.com.br/apiJPA",
 		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/santamariadospobres_app.png",
