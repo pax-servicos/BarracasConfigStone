@@ -30,6 +30,11 @@
 		"nome": "Arraiá de Santo Antônio"
 	},
 	{
+		"url": "https://nossasenhoradasaude.paxservicos.com.br/apiJPA",
+		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/nossasenhoradasaude_app.png",
+		"nome": "Arraiá da Saúde"
+	},		
+	{
 		"url": "https://nossasenhoraaparecidafercal.paxservicos.com.br/apiJPA",
 		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/nossasenhoraaparecidafercal_app.png",
 		"nome": "Arraiá da Aparecida"
