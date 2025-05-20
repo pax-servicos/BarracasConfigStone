@@ -10,6 +10,11 @@
 		"nome": "Costelão da Imaculada"
 	},
 	{
+		"url": "https://pnsnazarelagosul.paxservicos.com.br/apiJPA",
+		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/pnsnazarelagosul_app.png",
+		"nome": "Arraiá de Nazaré"
+	},
+	{
 		"url": "https://peregrinos.paxservicos.com.br/apiJPA",
 		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/peregrinos_app.png",
 		"nome": "Arraiá dos Peregrinos"
