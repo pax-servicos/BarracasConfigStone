@@ -53,7 +53,12 @@
 		"url": "https://pns-esperanca.paxservicos.com.br/apiJPA",
 		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/pns.esperanca_app.png",
 		"nome": "Arraial da Esperança"
-	},	
+	},
+	{
+		"url": "https://casadoceara.paxservicos.com.br/apiJPA",
+		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/casadoceara_app.png",
+		"nome": "Casa do Ceará"
+	},		
 	{
 		"url": "https://barracas.paxservicos.com.br/apiJPA",
 		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/barracas_pax.png",
