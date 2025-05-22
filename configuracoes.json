@@ -20,6 +20,11 @@
 		"nome": "Arraiá das Graças"
 	},	
 	{
+		"url": "https://catedralbrasilia.paxservicos.com.br/apiJPA",
+		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/catedralbrasilia_app.png",
+		"nome": "Catedral Metropolitana Brasília"
+	},		
+	{
 		"url": "https://peregrinos.paxservicos.com.br/apiJPA",
 		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/peregrinos_app.png",
 		"nome": "Arraiá dos Peregrinos"
