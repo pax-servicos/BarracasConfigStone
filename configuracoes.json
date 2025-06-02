@@ -18,7 +18,12 @@
 		"url": "https://lasalleaguasclaras.paxservicos.com.br/apiJPA",
 		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/lasalleaguasclaras_app.png",
 		"nome": "Arraiá Lassalista"
-	},			
+	},
+	{
+		"url": "https://guadalupe.paxservicos.com.br/apiJPA",
+		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/guadalupe_app.png",
+		"nome": "Arraiá da Guadá"
+	},				
 	{
 		"url": "https://nossasenhoraaparecidafercal.paxservicos.com.br/apiJPA",
 		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/nossasenhoraaparecidafercal_app.png",
@@ -28,7 +33,7 @@
 		"url": "https://santamariadospobres.paxservicos.com.br/apiJPA",
 		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/santamariadospobres_app.png",
 		"nome": "Arraiá Santa Maria dos pobres"
-	},
+	},		
 	{
 		"url": "https://pns-esperanca.paxservicos.com.br/apiJPA",
 		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/pns.esperanca_app.png",
@@ -48,21 +53,5 @@
 		"url": "https://pnsnazarelagosul.paxservicos.com.br/apiJPA",
 		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/pnsnazarelagosul_app.png",
 		"nome": "Arraiá de Nazaré"
-	},
-	{
-		"url": "https://nossasenhoradasgracas.paxservicos.com.br/apiJPA",
-		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/nossasenhoradasgracas_app.png",
-		"nome": "Arraiá das Graças"
-	},	
-	{
-		"url": "https://catedralbrasilia.paxservicos.com.br/apiJPA",
-		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/catedralbrasilia_app.png",
-		"nome": "Catedral Metropolitana Brasília"
-	},		
-	{
-		"url": "https://peregrinos.paxservicos.com.br/apiJPA",
-		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/peregrinos_app.png",
-		"nome": "Arraiá dos Peregrinos"
 	}
-
 ]
