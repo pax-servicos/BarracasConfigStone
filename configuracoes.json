@@ -5,26 +5,6 @@
 		"nome": "Colégio Liceu"
 	},
 	{
-		"url": "https://pnsnazarelagosul.paxservicos.com.br/apiJPA",
-		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/pnsnazarelagosul_app.png",
-		"nome": "Arraiá de Nazaré"
-	},
-	{
-		"url": "https://nossasenhoradasgracas.paxservicos.com.br/apiJPA",
-		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/nossasenhoradasgracas_app.png",
-		"nome": "Arraiá das Graças"
-	},	
-	{
-		"url": "https://catedralbrasilia.paxservicos.com.br/apiJPA",
-		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/catedralbrasilia_app.png",
-		"nome": "Catedral Metropolitana Brasília"
-	},		
-	{
-		"url": "https://peregrinos.paxservicos.com.br/apiJPA",
-		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/peregrinos_app.png",
-		"nome": "Arraiá dos Peregrinos"
-	},
-	{
 		"url": "https://santoantonio.paxservicos.com.br/apiJPA",
 		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/santoantonio_app.png",
 		"nome": "Arraiá de Santo Antônio"
@@ -63,5 +43,26 @@
 		"url": "https://barracas.paxservicos.com.br/apiJPA",
 		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/barracas_pax.png",
 		"nome": "Treinamento PAX"
-	}	
+	},
+	{
+		"url": "https://pnsnazarelagosul.paxservicos.com.br/apiJPA",
+		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/pnsnazarelagosul_app.png",
+		"nome": "Arraiá de Nazaré"
+	},
+	{
+		"url": "https://nossasenhoradasgracas.paxservicos.com.br/apiJPA",
+		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/nossasenhoradasgracas_app.png",
+		"nome": "Arraiá das Graças"
+	},	
+	{
+		"url": "https://catedralbrasilia.paxservicos.com.br/apiJPA",
+		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/catedralbrasilia_app.png",
+		"nome": "Catedral Metropolitana Brasília"
+	},		
+	{
+		"url": "https://peregrinos.paxservicos.com.br/apiJPA",
+		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/peregrinos_app.png",
+		"nome": "Arraiá dos Peregrinos"
+	}
+
 ]
