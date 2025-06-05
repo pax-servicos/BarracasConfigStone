@@ -48,10 +48,5 @@
 		"url": "https://barracas.paxservicos.com.br/apiJPA",
 		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/barracas_pax.png",
 		"nome": "Treinamento PAX"
-	},
-	{
-		"url": "https://pnsnazarelagosul.paxservicos.com.br/apiJPA",
-		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/pnsnazarelagosul_app.png",
-		"nome": "Arraiá de Nazaré"
 	}
 ]
