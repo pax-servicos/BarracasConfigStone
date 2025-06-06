@@ -73,7 +73,12 @@
 		"url": "https://poupex.paxservicos.com.br/apiJPA",
 		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/poupex_app.png",
 		"nome": "Festa Junina POUPEX"
-	},					
+	},
+	{
+		"url": "https://movimentoescaladabsb.paxservicos.com.br/apiJPA",
+		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/movimentoescaladabsb_app.png",
+		"nome": "Arraiá do São Chicão"
+	},							
 	{
 		"url": "https://barracas.paxservicos.com.br/apiJPA",
 		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/barracas_pax.png",
