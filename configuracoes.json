@@ -45,11 +45,6 @@
 		"nome": "Arraiá do CABV"
 	},
 	{
-		"url": "https://liceuguara.paxservicos.com.br/apiJPA",
-		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/liceuguara_app.png",
-		"nome": "Arraial do Liceu - Guará"
-	},		
-	{
 		"url": "https://casadoceara.paxservicos.com.br/apiJPA",
 		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/casadoceara_app.png",
 		"nome": "Casa do Ceará"
@@ -64,6 +59,11 @@
 		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/redesagradobrasilia_app.png",
 		"nome": "Arraiá do Sagrado"
 	},
+	{
+		"url": "https://liceuguara.paxservicos.com.br/apiJPA",
+		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/liceuguara_app.png",
+		"nome": "Arraial do Liceu - Guará"
+	},		
 	{
 		"url": "https://liceuvicentepires.paxservicos.com.br/apiJPA",
 		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/liceuvicentepires_app.png",
