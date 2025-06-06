@@ -48,7 +48,12 @@
 		"url": "https://casadoceara.paxservicos.com.br/apiJPA",
 		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/casadoceara_app.png",
 		"nome": "Casa do Ceará"
-	},		
+	},
+	{
+		"url": "https://escolacanadensesudoeste.paxservicos.com.br/apiJPA",
+		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/escolacanadensesudoeste_app.png",
+		"nome": "Arraiá da Escola Canadense Sudoeste"
+	},			
 	{
 		"url": "https://barracas.paxservicos.com.br/apiJPA",
 		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/barracas_pax.png",
