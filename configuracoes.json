@@ -13,7 +13,12 @@
 		"url": "https://nossasenhoraaparecidafercal.paxservicos.com.br/apiJPA",
 		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/nossasenhoraaparecidafercal_app.png",
 		"nome": "Arraiá da Aparecida"
-	},	
+	},
+	{
+		"url": "https://liceubrasilia.paxservicos.com.br/apiJPA",
+		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/liceubrasilia_app.png",
+		"nome": "Colégio Liceu"
+	},
 	{
 		"url": "https://lasalleaguasclaras.paxservicos.com.br/apiJPA",
 		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/lasalleaguasclaras_app.png",
@@ -78,10 +83,5 @@
 		"url": "https://barracas.paxservicos.com.br/apiJPA",
 		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/barracas_pax.png",
 		"nome": "Treinamento PAX"
-	},
-	{
-		"url": "https://liceubrasilia.paxservicos.com.br/apiJPA",
-		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/liceubrasilia_app.png",
-		"nome": "Colégio Liceu"
 	}
 ]
