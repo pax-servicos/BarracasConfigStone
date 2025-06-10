@@ -34,11 +34,6 @@
 		"nome": "Arraiá da Escola Canadense Sudoeste"
 	},	
 	{
-		"url": "https://cabv.paxservicos.com.br/apiJPA",
-		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/cabv_app.png",
-		"nome": "Arraiá do CABV"
-	},
-	{
 		"url": "https://casadoceara.paxservicos.com.br/apiJPA",
 		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/casadoceara_app.png",
 		"nome": "Casa do Ceará"
