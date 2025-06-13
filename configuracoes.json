@@ -49,6 +49,11 @@
 		"nome": "Festa Junina POUPEX"
 	},
 	{
+		"url": "https://sagradafamilia.paxservicos.com.br/apiJPA",
+		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/sagradafamilia_app.png",
+		"nome": "Arraiá da Sagrada Família"
+	},	
+	{
 		"url": "https://movimentoescaladabsb.paxservicos.com.br/apiJPA",
 		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/movimentoescaladabsb_app.png",
 		"nome": "Movimento Escalada Brasília"
