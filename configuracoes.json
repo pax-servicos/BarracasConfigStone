@@ -30,14 +30,14 @@
 		"nome": "Arraiá da Escola Canadense Sudoeste"
 	},	
 	{
-		"url": "https://casadoceara.paxservicos.com.br/apiJPA",
-		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/casadoceara_app.png",
-		"nome": "Casa do Ceará"
-	},
-	{
 		"url": "https://liceuvicentepires.paxservicos.com.br/apiJPA",
 		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/liceuvicentepires_app.png",
 		"nome": "Arraial do Colégio Liceu"
+	},	
+	{
+		"url": "https://casadoceara.paxservicos.com.br/apiJPA",
+		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/casadoceara_app.png",
+		"nome": "Casa do Ceará"
 	},
 	{
 		"url": "https://poupex.paxservicos.com.br/apiJPA",
