@@ -57,7 +57,27 @@
 		"url": "https://movimentoescaladabsb.paxservicos.com.br/apiJPA",
 		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/movimentoescaladabsb_app.png",
 		"nome": "Movimento Escalada Brasília"
-	},							
+	},		
+	{
+		"url": "https://novacap.paxservicos.com.br/apiJPA",
+		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/novacap_app.png",
+		"nome": "Festa Junina da NOVACAP"
+	},
+	{
+		"url": "https://escolacanadenseaguasclaras.paxservicos.com.br/apiJPA",
+		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/escolacanadenseaguasclaras_app.png",
+		"nome": "Arraiá da Escola Canadense Águas Claras"
+	},	
+	{
+		"url": "https://colegiovisao.paxservicos.com.br/apiJPA",
+		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/colegiovisao_app.png",
+		"nome": "Arraial do Colégio Visão"
+	},	
+	{
+		"url": "https://maximogarden.paxservicos.com.br/apiJPA",
+		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/maximogarden_app.png",
+		"nome": "Arraial do Máximo Garden"
+	},								
 	{
 		"url": "https://barracas.paxservicos.com.br/apiJPA",
 		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/barracas_pax.png",
