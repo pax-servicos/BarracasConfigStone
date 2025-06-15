@@ -35,6 +35,11 @@
 		"nome": "Casa do Ceará"
 	},
 	{
+		"url": "https://escolacanadensesudoeste.paxservicos.com.br/apiJPA",
+		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/escolacanadensesudoeste_app.png",
+		"nome": "Arraiá da Escola Canadense Sudoeste"
+	},	
+	{
 		"url": "https://poupex.paxservicos.com.br/apiJPA",
 		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/poupex_app.png",
 		"nome": "Festa Junina POUPEX"
