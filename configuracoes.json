@@ -1,5 +1,10 @@
 [	
 	{
+		"url": "https://liceubrasilia.paxservicos.com.br/apiJPA",
+		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/liceubrasilia_app.png",
+		"nome": "Colégio Liceu"
+	},
+	{
 		"url": "https://santoantonio.paxservicos.com.br/apiJPA",
 		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/santoantonio_app.png",
 		"nome": "Arraiá de Santo Antônio"
@@ -24,11 +29,6 @@
 		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/pns.esperanca_app.png",
 		"nome": "Arraial da Esperança"
 	},
-	{
-		"url": "https://liceuvicentepires.paxservicos.com.br/apiJPA",
-		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/liceuvicentepires_app.png",
-		"nome": "Arraial do Colégio Liceu"
-	},	
 	{
 		"url": "https://casadoceara.paxservicos.com.br/apiJPA",
 		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/casadoceara_app.png",
