@@ -3,41 +3,6 @@
 		"url": "https://liceubrasilia.paxservicos.com.br/apiJPA",
 		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/liceubrasilia_app.png",
 		"nome": "Colégio Liceu"
-	},
-	{
-		"url": "https://santoantonio.paxservicos.com.br/apiJPA",
-		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/santoantonio_app.png",
-		"nome": "Arraiá de Santo Antônio"
-	},
-	{
-		"url": "https://nossasenhoradasaude.paxservicos.com.br/apiJPA",
-		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/nossasenhoradasaude_app.png",
-		"nome": "Arraiá da Saúde"
-	},
-	{
-		"url": "https://guadalupe.paxservicos.com.br/apiJPA",
-		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/guadalupe_app.png",
-		"nome": "Arraiá da Guadá"
-	},				
-	{
-		"url": "https://santamariadospobres.paxservicos.com.br/apiJPA",
-		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/santamariadospobres_app.png",
-		"nome": "Arraiá Santa Maria dos pobres"
-	},		
-	{
-		"url": "https://pns-esperanca.paxservicos.com.br/apiJPA",
-		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/pns.esperanca_app.png",
-		"nome": "Arraial da Esperança"
-	},
-	{
-		"url": "https://casadoceara.paxservicos.com.br/apiJPA",
-		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/casadoceara_app.png",
-		"nome": "Casa do Ceará"
-	},
-	{
-		"url": "https://escolacanadensesudoeste.paxservicos.com.br/apiJPA",
-		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/escolacanadensesudoeste_app.png",
-		"nome": "Arraiá da Escola Canadense Sudoeste"
 	},	
 	{
 		"url": "https://poupex.paxservicos.com.br/apiJPA",
