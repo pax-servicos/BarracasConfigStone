@@ -3,11 +3,6 @@
 		"url": "https://liceubrasilia.paxservicos.com.br/apiJPA",
 		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/liceubrasilia_app.png",
 		"nome": "Colégio Liceu"
-	},	
-	{
-		"url": "https://poupex.paxservicos.com.br/apiJPA",
-		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/poupex_app.png",
-		"nome": "Festa Junina POUPEX"
 	},
 	{
 		"url": "https://sagradafamilia.paxservicos.com.br/apiJPA",
@@ -38,7 +33,22 @@
 		"url": "https://maximogarden.paxservicos.com.br/apiJPA",
 		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/maximogarden_app.png",
 		"nome": "Arraial do Máximo Garden"
-	},								
+	},
+	{
+		"url": "https://toplife.paxservicos.com.br/apiJPA",
+		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/toplife_app.png",
+		"nome": "Arraial do TopLife"
+	},	
+	{
+		"url": "https://tagualife.paxservicos.com.br/apiJPA",
+		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/tagualife_app.png",
+		"nome": "Arraial do TaguaLife"
+	},	
+	{
+		"url": "https://joyfull.paxservicos.com.br/apiJPA",
+		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/joyfull_app.png",
+		"nome": "Arraial da Escola Joy Full"
+	},											
 	{
 		"url": "https://barracas.paxservicos.com.br/apiJPA",
 		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/barracas_pax.png",
