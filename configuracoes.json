@@ -15,6 +15,11 @@
 		"nome": "Festa Junina da NOVACAP"
 	},
 	{
+		"url": "https://vilamagnifica.paxservicos.com.br/apiJPA",
+		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/vilamagnifica_app.png",
+		"nome": "Arraiá da Vila"
+	},	
+	{
 		"url": "https://escolacanadenseaguasclaras.paxservicos.com.br/apiJPA",
 		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/escolacanadenseaguasclaras_app.png",
 		"nome": "Arraiá da Escola Canadense Águas Claras"
