@@ -43,7 +43,12 @@
 		"url": "https://joyfull.paxservicos.com.br/apiJPA",
 		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/joyfull_app.png",
 		"nome": "Arraial da Escola Joy Full"
-	},											
+	},
+	{
+		"url": "https://sagradafamilia.paxservicos.com.br/apiJPA",
+		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/sagradafamilia_app.png",
+		"nome": "Arraial da Sagrada Família"
+	},												
 	{
 		"url": "https://barracas.paxservicos.com.br/apiJPA",
 		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/barracas_pax.png",
