@@ -20,21 +20,6 @@
 		"nome": "Arraiá da Escola Canadense Águas Claras"
 	},	
 	{
-		"url": "https://colegiovisao.paxservicos.com.br/apiJPA",
-		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/colegiovisao_app.png",
-		"nome": "Arraial do Colégio Visão"
-	},	
-	{
-		"url": "https://maximogarden.paxservicos.com.br/apiJPA",
-		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/maximogarden_app.png",
-		"nome": "Arraial do Máximo Garden"
-	},
-	{
-		"url": "https://toplife.paxservicos.com.br/apiJPA",
-		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/toplife_app.png",
-		"nome": "Arraial do TopLife"
-	},	
-	{
 		"url": "https://tagualife.paxservicos.com.br/apiJPA",
 		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/tagualife_app.png",
 		"nome": "Arraial do TaguaLife"
@@ -43,11 +28,6 @@
 		"url": "https://joyfull.paxservicos.com.br/apiJPA",
 		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/joyfull_app.png",
 		"nome": "Arraial da Escola Joy Full"
-	},
-	{
-		"url": "https://sagradafamilia.paxservicos.com.br/apiJPA",
-		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/sagradafamilia_app.png",
-		"nome": "Arraial da Sagrada Família"
 	},												
 	{
 		"url": "https://barracas.paxservicos.com.br/apiJPA",
