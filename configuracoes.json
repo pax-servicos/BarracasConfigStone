@@ -5,16 +5,6 @@
 		"nome": "Colégio Liceu"
 	},	
 	{
-		"url": "https://movimentoescaladabsb.paxservicos.com.br/apiJPA",
-		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/movimentoescaladabsb_app.png",
-		"nome": "Movimento Escalada Brasília"
-	},	
-	{
-		"url": "https://joyfull.paxservicos.com.br/apiJPA",
-		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/joyfull_app.png",
-		"nome": "Arraial da Escola Joy Full"
-	},												
-	{
 		"url": "https://barracas.paxservicos.com.br/apiJPA",
 		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/barracas_pax.png",
 		"nome": "Treinamento PAX"
