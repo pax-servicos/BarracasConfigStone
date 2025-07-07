@@ -8,7 +8,12 @@
 		"url": "https://imaculadaconceicao.paxservicos.com.br/apiJPA",
 		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/imaculadaconceicao_app.png",
 		"nome": "Arraiá da Imaculada"
-	},		
+	},
+	{
+		"url": "https://catedralanglicanadebrasilia.paxservicos.com.br/apiJPA",
+		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/catedralanglicanadebrasilia_app.png",
+		"nome": "Arraiá Anglicano"
+	},			
 	{
 		"url": "https://barracas.paxservicos.com.br/apiJPA",
 		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/barracas_pax.png",
