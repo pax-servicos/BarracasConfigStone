@@ -8,7 +8,12 @@
 		"url": "https://paroquiasaomateusdf.paxservicos.com.br/apiJPA",
 		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/paroquiasaomateusdf_app.png",
 		"nome": "Arraiá São Mateus"
-	},					
+	},
+	{
+		"url": "https://santaluziavca.paxservicos.com.br/apiJPA",
+		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/santaluziavca_app.png",
+		"nome": "Arraiá da Amizade"
+	},						
 	{
 		"url": "https://jpa.rmater.org.br/apiJPA",
 		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/jpa_app.png",
