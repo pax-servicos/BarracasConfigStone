@@ -13,6 +13,11 @@
 		"url": "https://santaluziavca.paxservicos.com.br/apiJPA",
 		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/santaluziavca_app.png",
 		"nome": "Arraiá da Amizade"
+	},	
+	{
+		"url": "https://santamariadospobres.paxservicos.com.br/apiJPA",
+		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/santamariadospobres_app.png",
+		"nome": "Santa Maria dos Pobres"
 	},						
 	{
 		"url": "https://jpa.rmater.org.br/apiJPA",
