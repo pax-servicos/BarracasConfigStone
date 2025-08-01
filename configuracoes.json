@@ -5,15 +5,15 @@
 		"nome": "Colégio Liceu"
 	},
 	{
-		"url": "https://santamariadospobres.paxservicos.com.br/apiJPA",
-		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/santamariadospobres_app.png",
-		"nome": "Santa Maria dos Pobres"
-	},
-	{
 		"url": "https://feiradauvabrasilia.paxservicos.com.br/apiJPA",
 		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/feiradauvabrasilia_app.png",
 		"nome": "Feira da Uva - Brasília"
-	},							
+	},	
+	{
+		"url": "https://santamariadospobres.paxservicos.com.br/apiJPA",
+		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/santamariadospobres_app.png",
+		"nome": "Santa Maria dos Pobres"
+	},					
 	{
 		"url": "https://jpa.rmater.org.br/apiJPA",
 		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/jpa_app.png",
