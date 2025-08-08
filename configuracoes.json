@@ -13,7 +13,12 @@
 		"url": "https://santamariadospobres.paxservicos.com.br/apiJPA",
 		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/santamariadospobres_app.png",
 		"nome": "Santa Maria dos Pobres"
-	},					
+	},
+	{
+		"url": "https://pns-esperanca.paxservicos.com.br/apiJPA",
+		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/pns-esperanca_app.png",
+		"nome": "Festa da Padroeira 2025"
+	},						
 	{
 		"url": "https://jpa.rmater.org.br/apiJPA",
 		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/jpa_app.png",
