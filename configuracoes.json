@@ -3,7 +3,12 @@
 		"url": "https://liceubrasilia.paxservicos.com.br/apiJPA",
 		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/liceubrasilia_app.png",
 		"nome": "Colégio Liceu"
-	},							
+	},
+	{
+		"url": "https://pnsnazarelagosul.paxservicos.com.br/apiJPA",
+		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/pnsnazarelagosul_app.png",
+		"nome": "Cìrio de Nazaré 2025"
+	},								
 	{
 		"url": "https://rmater.paxservicos.com.br/apiJPA",
 		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/rmater_app.png",
