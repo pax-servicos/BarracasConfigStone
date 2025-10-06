@@ -5,10 +5,15 @@
 		"nome": "Colégio Liceu"
 	},
 	{
+		"url": "https://catedralbrasilia.paxservicos.com.br/apiJPA",
+		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/catedralbrasilia_app.png",
+		"nome": "Quermesse Padroeira - Catedral"
+	},
+	{
 		"url": "https://nossasenhoraaparecidafercal.paxservicos.com.br/apiJPA",
 		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/nossasenhoraaparecidafercal_app.png",
 		"nome": "Festa da Padroeira - Fercal"
-	},			
+	},				
 	{
 		"url": "https://rmater.paxservicos.com.br/apiJPA",
 		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/rmater_app.png",
