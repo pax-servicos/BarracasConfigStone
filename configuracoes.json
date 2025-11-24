@@ -3,22 +3,17 @@
 		"url": "https://liceubrasilia.paxservicos.com.br/apiJPA",
 		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/liceubrasilia_app.png",
 		"nome": "Colégio Liceu"
-	},			
-	{
-		"url": "https://cristorei.paxservicos.com.br/apiJPA",
-		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/cristorei_app.png",
-		"nome": "Paróquia Cristo Rei"
-	},
-	{
-		"url": "https://rmater.paxservicos.com.br/apiJPA",
-		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/rmater_app.png",
-		"nome": "Seminário Redemptoris Mater Brasília"
 	},
 	{
 		"url": "https://barracas.paxservicos.com.br/apiJPA",
 		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/megabazar.png",
 		"nome": "Redemptoris Mater"
-	},					
+	},		
+	{
+		"url": "https://rmater.paxservicos.com.br/apiJPA",
+		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/rmater_app.png",
+		"nome": "Calendários Redemptoris Mater"
+	},				
 	{
 		"url": "https://barracas2.paxservicos.com.br/apiJPA",
 		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/barracas_pax.png",
