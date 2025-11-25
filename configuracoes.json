@@ -8,6 +8,11 @@
 		"url": "https://barracas.paxservicos.com.br/apiJPA",
 		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/megabazar.png",
 		"nome": "Redemptoris Mater"
+	},
+	{
+		"url": "https://guadalupe.paxservicos.com.br/apiJPA",
+		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/guadalupe.png",
+		"nome": "Quermesse da Guadalupe"
 	},		
 	{
 		"url": "https://rmater.paxservicos.com.br/apiJPA",
