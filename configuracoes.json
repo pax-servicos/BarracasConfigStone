@@ -5,27 +5,17 @@
 		"nome": "Colégio Liceu"
 	},
 	{
-		"url": "https://barracas.paxservicos.com.br/apiJPA",
-		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/megabazar.png",
-		"nome": "Redemptoris Mater"
-	},
-	{
-		"url": "https://guadalupe.paxservicos.com.br/apiJPA",
-		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/guadalupe_app.png",
-		"nome": "Festa da Padroeira"
-	},
-	{
 		"url": "https://imaculadaconceicao.paxservicos.com.br/apiJPA",
 		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/imaculadaconceicao_app.png",
 		"nome": "Festa da Imaculada"
 	},
 	{
-		"url": "https://rmater.paxservicos.com.br/apiJPA",
-		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/rmater_app.png",
-		"nome": "Calendários Redemptoris Mater"
+		"url": "https://guadalupe.paxservicos.com.br/apiJPA",
+		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/guadalupe_app.png",
+		"nome": "Festa da Padroeira"
 	},				
 	{
-		"url": "https://barracas2.paxservicos.com.br/apiJPA",
+		"url": "https://barracas.paxservicos.com.br/apiJPA",
 		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/barracas_pax.png",
 		"nome": "Treinamento PAX"
 	}
