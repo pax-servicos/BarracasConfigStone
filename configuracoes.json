@@ -1,4 +1,9 @@
 [	
+   	{
+       "url": "https://liceubrasilia2.paxservicos.com.br/apiJPA",
+       "logo": "https://d117gvdnzwbax1.cloudfront.net/img/liceubrasilia_app.png",
+       "nome": "Colégio Liceu"
+   	},   
 	{
 		"url": "https://barracas.paxservicos.com.br/apiJPA",
 		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/barracas_pax.png",
