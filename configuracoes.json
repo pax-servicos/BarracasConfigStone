@@ -1,5 +1,10 @@
 [	
 	{
+		"url": "https://liceubrasilia.paxservicos.com.br/apiJPA",
+		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/liceubrasilia_app.png",
+		"nome": "Colégio Liceu"
+	},
+	{
 		"url": "https://cristorei.paxservicos.com.br/apiJPA",
 		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/cristorei_app.png",
 		"nome": "Festa de Santa Bakhita"
