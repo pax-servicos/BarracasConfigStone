@@ -10,11 +10,6 @@
 		"nome": "Festa de Santa Bakhita"
 	},
 	{
-		"url": "https://imaculadaconceicao.paxservicos.com.br/apiJPA",
-		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/imaculadaconceicao_app.png",
-		"nome": "Festa da Imaculada"
-	},
-	{
 		"url": "https://barracas.paxservicos.com.br/apiJPA",
 		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/barracas_pax.png",
 		"nome": "Treinamento PAX"
