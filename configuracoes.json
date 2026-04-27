@@ -5,19 +5,5 @@
 		"nome": "Colégio Liceu",
 		"nomeEvento": "Colégios Liceu - Vendas das cantinas",
 		"data": "Ano-calendário 2026"
-	},
-	{
-		"url": "https://cristorei.paxservicos.com.br/apiJPA",
-		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/cristorei_app.png",
-		"nome": "Paróquia Cristo Rei",
-		"nomeEvento": "Paróquia Cristo Rei - Almoço de domingo",
-		"data": "08/03/2025"
-	},
-	{
-		"url": "https://barracas.paxservicos.com.br/apiJPA",
-		"logo": "https://d117gvdnzwbax1.cloudfront.net/img/barracas_pax.png",
-		"nome": "Treinamento PAX",
-		"nomeEvento": "Ziontech - Ambiente de Treinamento",
-		"data": "Ambiente permanente"
 	}
 ]
